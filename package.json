@@ -1,5 +1,5 @@
 {
-  "name": "Selfbot-WhatsApp",
+  "name": "SBW",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -42,21 +42,21 @@
     "util": "^0.10.4"
   },
   "scripts": {
-    "test": "node lindow",
-    "start": "node lindow.js"
+    "test": "node SBW",
+    "start": "node SBW.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lindow666/Selfbot-whatsapp.git"
+    "url": "git+https://github.com/INURAMSA/SBW.git"
   },
   "keywords": [
-    "Self",
-    "Selfbot Whasapp",
+    "SBW",
+    "SBW",
     "Bot WhatsApp"
   ],
-  "author": "Lindow",
+  "author": "INURAMSA",
   "bugs": {
-    "url": "https://github.com/Lindow666/Selfbot-whatsapp/issues"
+    "url": "https://github.com/INURAMSA/SBW/issues"
   },
-  "homepage": "https://github.com/Lindow666/Selfbot-whatsapp/readme"
+  "homepage": "https://github.com/INURAMSA/SBW/readme"
 }
